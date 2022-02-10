@@ -1,5 +1,5 @@
 {
-    "name": "adaojunior/passport-social-grant",
+    "name": "kakhura/passport-social-grant",
     "description": "Social grant for Laravel Passport",
     "type": "library",
     "keywords": [
@@ -9,13 +9,13 @@
         "laravel",
         "passport"
     ],
-    "homepage": "https://github.com/adaojunior/passport-social-grant",
+    "homepage": "https://github.com/kakhura/passport-social-grant",
     "license": "MIT",
     "authors": [
         {
             "name": "Adão Júnior",
             "email": "dev@pardim.com",
-            "homepage": "https://github.com/adaojunior",
+            "homepage": "https://github.com/kakhura",
             "role": "Developer"
         }
     ],
